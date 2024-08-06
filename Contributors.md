@@ -26,9 +26,10 @@
 - [david gordon](https://github.com/dudigoo/) **second step**
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
 - [yuthadda](https://github.com/yuthadda)
+- [saniya.ismail](https://github.com/saniya.ismail) **Learning**
 - [FernandoSiavato](https://github.com/FernandoSiavato)
 - [varnit-mittal](https://github.com/varnit-mittal) **Just for my SE Lab Attendance purpose**
--[saniya.ismail]
+
 -[chedva and Libby](https://github.com/chedva-n)**Try first time open source**
 - [Lokesh11868](https://github.com/Lokesh11868) **First Open Source Contribution**
 - [John McLaughlin](https://github.com/johnmclaughlin) **Hello World**≈
